@@ -1,0 +1,7 @@
+{
+  "name": "Aura Airlines - Elevating Every Journey",
+  "description": "A high-end, modern flight booking platform featuring a sleek UI, real-time AI travel assistance, and a seamless booking experience.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
